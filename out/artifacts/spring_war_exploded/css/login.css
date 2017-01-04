@@ -1,0 +1,15 @@
+html,body{
+    margin: 0;
+    padding:0;
+}
+div.imgback{
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    background: url('../img/login/maintest.png') no-repeat;
+    display: block;
+}
+
