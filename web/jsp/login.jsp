@@ -13,8 +13,9 @@
     <link rel="stylesheet" type="text/css" href="../css/login.css"/>
   </head>
   <body>
-    <div class="imgback">
-      <!--<input type="text" name="test" size="30" maxlength="15"/>-->
-    </div>
+    <%--<div class="imgback" style="display: none">--%>
+        <div class="username"></div>
+        <%--<div class="password"></div>--%>
+    <%--</div>--%>
   </body>
 </html>

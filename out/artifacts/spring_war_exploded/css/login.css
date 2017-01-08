@@ -9,7 +9,27 @@ div.imgback{
     height: 100%;
     width: 100%;
     z-index: -1;
-    background: url('../img/login/maintest.png') no-repeat;
+    background: url('../img/login/login.jpg') no-repeat;
     display: block;
 }
+
+div.username{
+    /*margin: 20%;
+    padding: 40%;*/
+    /*position: absolute;*/
+    /*z-index: -1;*/
+    background: url('../img/login/username.jpg') no-repeat;
+    /*display: block;*/
+}
+
+/*
+div.password{
+    margin: 20%;
+    padding: 40%;
+    position: absolute;
+    z-index: -1;
+    background: url('../img/login/password.jpg') no-repeat;
+    display: block;
+}
+*/
 
