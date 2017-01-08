@@ -14,7 +14,7 @@
   </head>
   <body>
     <div class="imgback">
-      <input type="text" name="yourname" size="30" maxlength="15"/>
+      <!--<input type="text" name="test" size="30" maxlength="15"/>-->
     </div>
   </body>
 </html>
